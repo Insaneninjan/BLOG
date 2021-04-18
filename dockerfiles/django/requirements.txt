@@ -1,0 +1,7 @@
+Django~=3.2
+django-cleanup
+django-cors-headers
+django-markdownx
+djangorestframework
+importlib-metadata
+django-environ
